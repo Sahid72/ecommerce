@@ -22,3 +22,24 @@
 .container{
     margin-bottom: 100px;
 }
+
+
+.cart1 img , .cart2 img , .cart3 img{
+
+    width: 100px;
+
+}
+.cart1,.cart3,.cart2{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cart1{
+    background-color:tomato;
+}
+.cart2{
+    background-color: red;
+}
+.cart3{
+    background-color: rebeccapurple;
+}
